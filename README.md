@@ -1,4 +1,14 @@
 ## Live Sketch Demo
+Today in this tutorial, you will learn an application of OpenCV which will make you realize how powerful OpenCV can get.
+
+In the project, we will take a live webcam feed and convert it into a live sketch with the help of numpy and OpenCV library.
+
+Let’s begin with the amazing project!
+
+
+
+
+
 
 ### Some Results
 
